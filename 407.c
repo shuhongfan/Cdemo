@@ -1,0 +1,11 @@
+//
+// Created by shuhongfan on 2021/6/9.
+//
+
+#include <stdio.h>
+#include <math.h>
+int main(){
+    float r=0.1,n=10,p;
+    p=pow((1+r),n);
+    printf("%f",p);
+}

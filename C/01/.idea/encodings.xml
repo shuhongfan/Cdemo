@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/19if.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/20threePig.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/21sanmu.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/22switch.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/23while.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/25for.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/30array.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/33arrPig.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/36erweiArray.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/37kaoshi.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/38duoweiArray.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/39charArr.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/40charArr2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/46strlen.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4maicai.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/50strcmp.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/5cricle.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/61wannengzhizhen.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/64arrayAndzhizhen.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/66zhizhenarray.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/6int.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/71function3.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8intsize.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/9charsize.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
